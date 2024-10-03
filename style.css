@@ -1,0 +1,36 @@
+.contenido {
+    border: 2px solid black;
+    border-radius: 3px;
+    padding:10px;
+    width: 80%;
+    height: 100px;
+}
+
+#boton {
+    background-color: rgb(248, 208, 75);
+    border: 1px;
+    width: 60px;
+    height: 25px;
+    border-radius: 3px;
+    position: relative;
+    left: 900px;
+    bottom: 80px;
+    cursor: pointer;
+}
+
+.link {
+    color:blue;
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+#contador {
+    background-color: rgb(241, 237, 237);
+    width: 60px;
+    height:25px;
+    position: relative;
+    left: 830px;
+    bottom: 105px;
+    padding: 1px;
+    text-align: center;
+}
